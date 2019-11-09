@@ -1,8 +1,11 @@
 # [MilSpouse InfoHub]
 
 ## Preview
-<p align="center"><img style="text-align: center; width: 500px" src="img/screenshot-home.png">
-<img style="text-align: center; width: 500px" src="img/screenshot-quick-resources.png">
+<p align="center">Home Page
+<img style="text-align: center; width: 500px" src="img/screenshot-home.png">
+</p>
+<p align="center">Quick Resources
+<img style="text-align: center; width: 500px" src="img/screenshot-quickresources.png">
 </p>
 
 
